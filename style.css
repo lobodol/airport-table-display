@@ -28,7 +28,7 @@
 #airport-table .letter
 {
     position: relative;
-    display: inline-block;
+    display: inline-flex;
     margin: 5px;
     width: 50px;
     height: 75px;
