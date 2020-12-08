@@ -1,2 +1,3 @@
 # Airport table display CSS3
-All details here : www.firediy.fr/article-27.html
+
+All details are here: https://www.firediy.fr/article/panneau-d-affichage-style-aeroport-full-css
